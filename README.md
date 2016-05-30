@@ -1,2 +1,5 @@
-# webdev-task1-advanced
-Hacker mode of Delta Web-Dev Task 1
+# webdev-task1
+
+Normal mode of Delta web dev Task 1
+
+Theme - Space
